@@ -4,37 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2fa66ba4-3378-4563-981e-bd536836a0e7" name="Changes" comment="Te">
+    <list default="true" id="2fa66ba4-3378-4563-981e-bd536836a0e7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Examen/Ej1_Adapter/CarAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Examen/Ej1_Adapter/CarDiesel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Examen/Ej1_Adapter/CarElectric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Examen/Ej1_Adapter/CarGasEspecial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Examen/Ej1_Adapter/CarGasolina.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Examen/Ej1_Adapter/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Examen/Ej1_Adapter/ICarElectrico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Examen/Ej1_Adapter/ICarGas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Examen/Ej2_Proxy/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Examen/Ej2_Proxy/IServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Examen/Ej2_Proxy/Server1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Examen/Ej2_Proxy/Server2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Examen/Ej2_Proxy/ServerProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Examen/Ej2_Proxy/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Examen/Ej3_Bridge/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Examen/Ej3_Bridge/EmpresaSA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Examen/Ej3_Bridge/EmpresaSRL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Examen/Ej3_Bridge/EnvioAire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Examen/Ej3_Bridge/EnvioMar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Examen/Ej3_Bridge/EnvioTierra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Examen/Ej3_Bridge/IEnvioPaquete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Examen/Ej3_Bridge/Paquete.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Templates/T1Adapter/Adaptee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Templates/T1Adapter/Adaptee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Templates/T1Adapter/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Templates/T1Adapter/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Templates/T1Adapter/ConcreteAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Templates/T1Adapter/ConcreteAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Templates/T1Adapter/ConcreteObject1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Templates/T1Adapter/ConcreteObject1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Templates/T1Adapter/ConcreteObject2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Templates/T1Adapter/ConcreteObject2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Templates/T1Adapter/ConcreteObject3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Templates/T1Adapter/ConcreteObject3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Templates/T1Adapter/IAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Templates/T1Adapter/IAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Templates/T2Proxy/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Templates/T2Proxy/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Templates/T2Proxy/ISubject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Templates/T2Proxy/ISubject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Templates/T2Proxy/Proxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Templates/T2Proxy/Proxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Templates/T2Proxy/RealSubject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Templates/T2Proxy/RealSubject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Templates/T3Bridge/Abstraction1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Templates/T3Bridge/Abstraction1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Templates/T3Bridge/Abstraction2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Templates/T3Bridge/Abstraction2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Templates/T3Bridge/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Templates/T3Bridge/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Templates/T3Bridge/IAbstraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Templates/T3Bridge/IAbstraction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Templates/T3Bridge/Implementor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Templates/T3Bridge/Implementor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Templates/T3Bridge/ImplementorA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Templates/T3Bridge/ImplementorA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Templates/T3Bridge/ImplementorB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Templates/T3Bridge/ImplementorB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Templates/T3Bridge/ImplementorC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Templates/T3Bridge/ImplementorC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Templates/T4Composite/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Templates/T4Composite/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Templates/T4Composite/Component.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Templates/T4Composite/Component.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Templates/T4Composite/Composite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Templates/T4Composite/Composite.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Templates/T4Composite/Leaf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Templates/T4Composite/Leaf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Templates/T5Decorator/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Templates/T5Decorator/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Templates/T5Decorator/Component.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Templates/T5Decorator/Component.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Templates/T5Decorator/ConcreteComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Templates/T5Decorator/ConcreteComponent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Templates/T5Decorator/ConcreteDecorator1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Templates/T5Decorator/ConcreteDecorator1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Templates/T5Decorator/ConcreteDecorator2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Templates/T5Decorator/ConcreteDecorator2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Templates/T5Decorator/Decorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Templates/T5Decorator/Decorator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,11 +60,45 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Application.Examen.Ej2_Proxy.Client">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Examen.Ej3_Bridge.Client" />
+      <module name="ExamenParcial3_DesignPattern.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Examen.Ej3_Bridge.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Examen.Ej2_Proxy.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Examen.Ej2_Proxy.Client" />
+      <module name="ExamenParcial3_DesignPattern.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Examen.Ej2_Proxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Examen.Ej2_Proxy.Client" />
+        <item itemvalue="Application.Client" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -80,6 +108,18 @@
       <option name="presentableId" value="Default" />
       <updated>1679529485791</updated>
     </task>
+    <task id="LOCAL-00001" summary="Templates">
+      <created>1679531839890</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1679531839890</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Templates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Templates" />
   </component>
 </project>
