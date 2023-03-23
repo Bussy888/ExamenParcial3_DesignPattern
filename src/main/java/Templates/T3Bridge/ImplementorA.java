@@ -1,2 +1,13 @@
-package Templates.T3Bridge;public class ImplementorA {
+package Templates.T3Bridge;
+
+public class ImplementorA implements Implementor{
+    @Override
+    public void method1() {
+        System.out.println("ImplementorA>method1");
+    }
+
+    @Override
+    public void method2() {
+        System.out.println("ImplementorA>method2");
+    }
 }

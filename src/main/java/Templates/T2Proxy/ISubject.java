@@ -1,2 +1,5 @@
-package Templates.T2Proxy;public class ISubject {
+package Templates.T2Proxy;
+
+public interface ISubject {
+    void request();
 }

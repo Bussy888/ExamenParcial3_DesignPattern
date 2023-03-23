@@ -1,2 +1,6 @@
-package Templates.T5Decorator;public class Component {
+package Templates.T5Decorator;
+
+public interface Component {
+
+    void operation();
 }

@@ -1,2 +1,14 @@
-package Templates.T5Decorator;public class Client {
+package Templates.T5Decorator;
+
+public class Client {
+    public static void main (String []args){
+        Component analisisDatos = new ConcreteComponent();
+
+        analisisDatos = new ConcreteDecorator1(analisisDatos);
+        analisisDatos = new ConcreteDecorator2(analisisDatos);
+
+        analisisDatos.operation();
+
+    }
+
 }

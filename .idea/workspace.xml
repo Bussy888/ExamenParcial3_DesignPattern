@@ -4,7 +4,38 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2fa66ba4-3378-4563-981e-bd536836a0e7" name="Changes" comment="" />
+    <list default="true" id="2fa66ba4-3378-4563-981e-bd536836a0e7" name="Changes" comment="Te">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Templates/T1Adapter/Adaptee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Templates/T1Adapter/Adaptee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Templates/T1Adapter/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Templates/T1Adapter/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Templates/T1Adapter/ConcreteAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Templates/T1Adapter/ConcreteAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Templates/T1Adapter/ConcreteObject1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Templates/T1Adapter/ConcreteObject1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Templates/T1Adapter/ConcreteObject2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Templates/T1Adapter/ConcreteObject2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Templates/T1Adapter/ConcreteObject3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Templates/T1Adapter/ConcreteObject3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Templates/T1Adapter/IAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Templates/T1Adapter/IAdapter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Templates/T2Proxy/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Templates/T2Proxy/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Templates/T2Proxy/ISubject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Templates/T2Proxy/ISubject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Templates/T2Proxy/Proxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Templates/T2Proxy/Proxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Templates/T2Proxy/RealSubject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Templates/T2Proxy/RealSubject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Templates/T3Bridge/Abstraction1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Templates/T3Bridge/Abstraction1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Templates/T3Bridge/Abstraction2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Templates/T3Bridge/Abstraction2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Templates/T3Bridge/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Templates/T3Bridge/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Templates/T3Bridge/IAbstraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Templates/T3Bridge/IAbstraction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Templates/T3Bridge/Implementor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Templates/T3Bridge/Implementor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Templates/T3Bridge/ImplementorA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Templates/T3Bridge/ImplementorA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Templates/T3Bridge/ImplementorB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Templates/T3Bridge/ImplementorB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Templates/T3Bridge/ImplementorC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Templates/T3Bridge/ImplementorC.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Templates/T4Composite/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Templates/T4Composite/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Templates/T4Composite/Component.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Templates/T4Composite/Component.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Templates/T4Composite/Composite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Templates/T4Composite/Composite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Templates/T4Composite/Leaf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Templates/T4Composite/Leaf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Templates/T5Decorator/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Templates/T5Decorator/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Templates/T5Decorator/Component.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Templates/T5Decorator/Component.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Templates/T5Decorator/ConcreteComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Templates/T5Decorator/ConcreteComponent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Templates/T5Decorator/ConcreteDecorator1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Templates/T5Decorator/ConcreteDecorator1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Templates/T5Decorator/ConcreteDecorator2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Templates/T5Decorator/ConcreteDecorator2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Templates/T5Decorator/Decorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Templates/T5Decorator/Decorator.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,8 +46,19 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2NOK2gNB1LQwo2CCNAIvbDx4SpF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -24,6 +66,11 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
