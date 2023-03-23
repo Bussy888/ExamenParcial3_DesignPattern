@@ -6,7 +6,8 @@ public class CarDiesel implements  ICarGas{
     private int tanque = 0;
     @Override
     public void llenarGas() {
-        tanque = new Random().nextInt(50);
+        System.out.println("Llenando tanque con DIESEL");
+        tanque = new Random().nextInt(99)+1;
     }
 
     @Override
