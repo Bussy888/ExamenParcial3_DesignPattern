@@ -4,22 +4,21 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class ServerProxy implements IServer{
-    private Server1 server1 = new Server1();
-    private Server2 server2 = new Server2();
+    private Server1 server1 = Server1.getServer();
+    private Server2 server2 = Server2.getServer();
     private SuperList users = new SuperList(new ArrayList<>());
 
     public ServerProxy(List<User> users) {
         this.users.list = users;
     }
 
-    @Override
-    public void acceptUser(List<User> requests) {
+    public void aceptar(List<User> requests) {
         for (int i=0;i<requests.size(); i++) {
             if (users.includes(requests.get(i))) {
-                if (isPrime(i)) {
-                    server1.acceptUser(i);
+                if (isPrime(requests.get(i).getID())) {
+                    server1.acceptUser(requests.get(i));
                 } else {
-                    server2.acceptUser(i);
+                    server2.acceptUser(requests.get(i));
                 }
             }
         }
@@ -34,5 +33,10 @@ public class ServerProxy implements IServer{
             }
         }
         return true;
+    }
+
+    @Override
+    public void acceptUser(User user) {
+
     }
 }

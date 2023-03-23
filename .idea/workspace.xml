@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2fa66ba4-3378-4563-981e-bd536836a0e7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Examen/Ej2_Proxy/SuperList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Examen/Ej1_Adapter/CarAdapter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Examen/Ej1_Adapter/CarAdapter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Examen/Ej1_Adapter/CarDiesel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Examen/Ej1_Adapter/CarDiesel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Examen/Ej1_Adapter/CarElectric.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Examen/Ej1_Adapter/CarElectric.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Examen/Ej1_Adapter/CarGasEspecial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Examen/Ej1_Adapter/CarGasEspecial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Examen/Ej1_Adapter/CarGasolina.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Examen/Ej1_Adapter/CarGasolina.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Examen/Ej1_Adapter/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Examen/Ej1_Adapter/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Examen/Ej2_Proxy/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Examen/Ej2_Proxy/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Examen/Ej2_Proxy/Server1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Examen/Ej2_Proxy/Server1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Examen/Ej2_Proxy/Server2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Examen/Ej2_Proxy/Server2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Examen/Ej2_Proxy/ServerProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Examen/Ej2_Proxy/ServerProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Examen/Ej2_Proxy/SuperList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Examen/Ej2_Proxy/SuperList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,12 +117,20 @@
       <option name="project" value="LOCAL" />
       <updated>1679612343625</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Commit #2 $(OS_id)">
+      <created>1679614195672</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679614195672</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Templates" />
     <MESSAGE value="Commit #1 $(OS_id)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit #1 $(OS_id)" />
+    <MESSAGE value="Commit #2 $(OS_id)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit #2 $(OS_id)" />
   </component>
 </project>

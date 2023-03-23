@@ -17,10 +17,11 @@ public class Client {
         users.add(user4);
 
         ServerProxy proxy = new ServerProxy(users);
-
-        proxy.acceptUser(user1);
-        proxy.acceptUser(user2);
-        proxy.acceptUser(user3);
-        proxy.acceptUser(user4);
+        List<User> requests = new ArrayList<>();
+        requests.add(new User(29, "Mateo","Contra123"));
+        requests.add(new User(88, "Carlos", "Cel123"));
+        requests.add(new User(79, "Juan","Juanito321"));
+        requests.add(new User(432, "Gabriel", "Gabo434"));
+        proxy.aceptar(requests);
     }
 }

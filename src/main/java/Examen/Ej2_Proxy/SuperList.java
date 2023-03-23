@@ -16,6 +16,7 @@ public class SuperList {
     public boolean includes(User user){
         for (User u : list){
             if(checkValidation(u.getNombre(), user.getNombre(), user.getPass(), u.getPass())){
+                System.out.println("Contrasena CORRECTA del usuario "+user.getNombre());
                 return true;
             }
         }
